@@ -3,7 +3,7 @@
 *
 *  Ex: para o input 1212, o output deverá ser "mil duzentos e doze"
 *
-*  Versão 6 - 02/03/2018 - neste momento receber inteiros compostos por até 66 algarismos.
+*  Versão 6 - 02/03/2019 - neste momento receber inteiros compostos por até 66 algarismos.
 */
 
 import java.math.BigInteger;
