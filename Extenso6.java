@@ -414,7 +414,6 @@ public class Extenso6 {
    }
 
    public static String metodoMilionario(String i, String preExt, String grand) {
-      // "milh\u00E3o", "milh\u00F5es"
 
       BigInteger grandeza = new BigInteger(grand);
       String singular = preExt + "\u00E3o", plural = preExt + "\u00F5es" ;
